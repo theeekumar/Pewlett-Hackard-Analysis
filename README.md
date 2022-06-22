@@ -2,7 +2,7 @@
 ## Overview of the analysis
 Create entity relationship diagrams, perform data modeling, and complete analysis on an employee database using SQL techniques.
 ### Purpose 
-The purpose of this analysis was to help Bobby's manager prepare for the "silver tsunami"  by determining the number of retiring employees per title and identifying employees who are eligible to participate in a mentorship program.
+The purpose of this analysis was to help Pewlett-Hackard, a company with 75,000 employees, prepare for the nearing "silver tsunami". Within the next couple of years, many employees will begin retiring rapidly causing the company to prepare ahead of time with employee training and retirement packages. One of the managers of the company asked us to help them prepare by determining the number of retiring employees per title and identifying employees who are eligible to participate in a mentorship program.
 ### Resources
 Data Source:
 - departments.csv
@@ -33,7 +33,7 @@ Software:
 ![25C9CD77-D58F-4D03-9C88-22ECB03653AE](https://user-images.githubusercontent.com/92240407/150470329-72bbe43d-a5df-47e5-b53e-2755829a9fb6.jpeg)
 
 ## Summary
-Due to the "silver tsunami" arriving at the company, about 30% of the amount of employees will be retiring. This means the titles for the rows from the results we found will need t be filled. From the results of the Mentorship Eligibilty table, there seems to be enough qualified, retirement-ready employees in the departments to mentor th next generation of Pewlett Hackard employees.
+Due to the "silver tsunami" arriving at the company, about 30% of the amount of employees will be retiring. This means the titles for the rows from the results we found will need to be filled. From the results of the Mentorship Eligibilty table, there seems to be enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.
 
 
 
